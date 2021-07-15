@@ -17,7 +17,7 @@ services:
     volumes:
       - static_volume:/home/appuser/django_app/static
     ports:
-      - 1337:80
+      - 1338:80
     depends_on:
       - web
 
