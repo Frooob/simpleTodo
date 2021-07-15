@@ -10,3 +10,5 @@ __pycache__/
 static/
 
 db.sqlite3
+
+build/
